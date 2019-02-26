@@ -1,0 +1,35 @@
+
+\documentclass[12pt]{report}
+
+\usepackage{fancyhdr}
+\usepackage[top=1.5in, bottom=1.5in, left=1.5in, right=1.5in]{geometry}
+\usepackage{multicol}
+
+\usepackage{arabxetex}
+
+% setting nice fonts
+\usepackage{fontspec}
+\defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+\setmainfont{Baskerville}
+\setmonofont{Courier New}
+
+\newfontfamily\arabicfont[Script=Arabic]{Amiri}
+
+\pagestyle{fancy}
+
+\lhead{}
+\chead{}
+\rhead{\textarab{تراجم الأعلام من ‹‹تاريخ الإسلام›› للذهبي (توفي سنة 748 هـ)}}
+\lfoot{}
+\cfoot{}
+\rfoot{\itshape Biographical Reader \upshape (Romanov)}
+
+\begin{document}
+
+% end of the header
+
+\input{items.tex}
+
+% beginning of the tail
+
+\end{document}

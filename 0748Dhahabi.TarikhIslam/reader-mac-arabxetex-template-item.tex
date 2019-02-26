@@ -1,0 +1,31 @@
+\subsection*{@ITEMNAME@}
+
+\tiny
+\begin{flushright}\texttt{@ITEMCODE@}\end{flushright}
+
+\begin{arab}[novoc]
+\large \noindent @ARABICTEXT@
+\end{arab}
+
+\normalsize
+\begin{center}\textit{Vocabulary (by frequencies)}\end{center}
+\footnotesize
+\begin{multicols}{2}
+
+\noindent
+@VOCAB@ % "%s) \mbox{\textarab{%s}} --- %s;\\ \n" % (rank, token, transl)
+\end{multicols}
+
+\normalsize
+\noindent \textbf{Grammar:} @GRAMMAR@
+
+\normalsize
+\noindent \textbf{Culture:} @CULTURE@
+
+\normalsize
+\begin{center}\textit{Frequency report}\end{center}
+\tiny
+\begin{multicols}{5}
+\noindent
+@FREQREPORT@ % "%s) \mbox{\textarab{%s}} (%s);\\ \n" % (rank, token, freq)
+\end{multicols}

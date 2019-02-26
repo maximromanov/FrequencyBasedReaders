@@ -1,0 +1,59 @@
+##### NEXT STORY ###################################
+# RAN # 000000002-023270-000.txt
+# URI # 023270-000 # TAG
+# AUT # al-Ḏahabī
+# DAT # NA
+# SR1 # Taʾrīḫ al-islām
+# SR2 # NA
+# TOP # BIO
+# TXT #
+الحسن بن محمد بن موسى بن إسحاق بن موسى، أبو علي الأنصاري. [الوفاة: 342 ه] سمع جده موسى، وابن أبي الدنيا، والمبرد، وغيرهم. وعنه القاضي أبو القاسم بن أبي عمرو، ومحمد بن أحمد بن أبي عون شيخا الخطيب. وثقه الخطيب، وقال: توفي في ذي الحجة. 
+##### VOCAB REPORT #####
+#000000001# بن (193,727) :: son
+#000000002# في (48,775) :: in
+#000000003# أبو (42,002) :: father
+#000000006# محمد (37,422) :: Muḥammad, pn
+#000000008# أبي (32,466)
+#000000009# الوفاة (30,980) :: death
+#000000009# ه (30,956) :: abbreviation of \textit{hiǧrī}, Islamic lunar calendar
+#000000011# أحمد (19,940) :: Aḥmad, pn
+#000000012# وقال (17,961) :: and [he] said
+#000000013# علي (17,171) :: ʿAlī, pn
+#000000018# وعنه (10,606) :: and from him
+#000000019# الحسن (10,316) :: al-Ḥasan, pn
+#000000019# توفي (10,311) :: (passive) [he] died, lit. ``he was taken [by God]''
+#000000019# سمع (10,138) :: [he] heard, listened (i.e., studied)
+#000000030# وابن (7,550)
+#000000031# ومحمد (7,533)
+#000000035# القاسم (6,637) :: al-Qāsim, pn
+#000000048# إسحاق (4,509) :: Isḥāq (Isaac), pn
+#000000064# عمرو (3,677) :: ʿAmr, pn
+#000000090# القاضي (3,104) :: [the] judge, \textit{qāḍī}
+#000000090# موسى (3,104) :: Mūsá (Moses), pn
+#000000116# الخطيب (2,398) :: [the] orator, Friday preacher; here, pn of a prominent Ḥadīṯ scholar---al-Ḫaṭīb al-Baġdādī
+#000000117# ذي (2,376) :: gen. of \textit{ḏū}, owner, possessor, ``that of ...''
+#000000129# وغيرهم (2,101) :: and others, lit. "and other than them"
+#000000152# وثقه (1,838) :: [he] considered him trustworthy (technical term)
+#000000161# الأنصاري (1,773) :: al-Anṣārī, \textit{nisbaŧ} denoting descendence from the Anṣār, ``the Helpers of the Prophet''
+#000000259# الحجة (1,143) :: here, a part of \textit{ḏū-l-ḥiǧǧaŧ}, the 12th month of the Islamic lunar calendar
+#000000301# الدنيا (973) :: ``this world'', ``this life''; here, a part of the name of Ibn Abī-l-Dunyā, a prominent early scholar
+#000000301# جده (973) :: his grandfather
+#000000428# عون (611)
+#000000454# شيخا (562) :: two \textit{šayḫ}s, two teachers
+#000000952# والمبرد (17) :: al-Mubarrad, a prominent Ḥadīṯ scholar
+
+
+##### GRAMMAR #####
+
+For \textarab{شيخا الخطيب}, review dual and its behavior in \textit{iḍāfaŧ} (\textsc{Thackston}, IKCA, L4-§8; for \textit{iḍāfaŧ}, see \textsc{Thackston}, IKCA, L4-§8). For \textarab{وثقه}, see Factitive verbs of Form II: \textsc{Thackston}, IKCA, L27-§64. For \textarab{توفي}, see Reflexive/Medio-passive verbs, Form V: \textsc{Thackston}, IKCA, L29-§67.
+
+
+##### CULTURE #####
+
+Traditional Arab name is quite complex and includes up to six different parts. Here we find person's ``first name" (\text{ism}), which is al-Ḥasan. Then we find his ``genealogy" (\textit{nasab})---the male names connected with \textit{bn}---the name of his father, his grandfather, his great grandfather and his great great grandfather; \textit{nasab} can go back as far as to the time of the Prophet. Then we find \textit{kunyaŧ}, ``the father of ...''---Abū ʿAlī. And the last one is \textit{nisbaŧ}---al-Anṣārī: this type of names asserts relationship between a person and some kind of entity. In this case, the person traces his lineage back to the Anṣār, ``the Helpers [of the Prophet],'' who accepted Muḥammad in Yaṯrib as their leader. Yaṯrib later became known as Madīnaŧ al-Nabī, or simply al-Madīnaŧ (Medina).
+
+
+##### MANUSCR #####
+
+[Relative Path to Image]
+
